@@ -30,59 +30,68 @@ This repository serves as a **technical portfolio** demonstrating:
 
 ## 🗂️ Portfolio Projects
 
-| Project | Type | Tech Stack | Key Features |
-|---------|------|------------|--------------|
-| [**HRIS System**](./porto_HRIS.md) | Enterprise | Laravel 12 + Nuxt 4 | Employee management, GPS attendance, biometric auth |
-| [**BerkahPOS**](./porto_INVENTORYMANAGEMENTPOS.md) | POS & Inventory | Laravel + Nuxt | Multi-store management, real-time sync, reporting |
-| [**Enterprise CRM**](./porto_CRM.md) | CRM & Sales | Laravel + Vue + Inertia | Sales pipeline, customer management, analytics |
-| [**JSO Platform**](./porto_JSO.md) | E-Commerce | Laravel + Vue + Inertia | Multi-vendor marketplace, payment integration |
-| [**Dukkan**](./porto_dukkan.md) | Business Platform | Laravel + Vue + Inertia | Merchant management, order processing |
-| [**KPI Dashboard**](./porto_kpi.md) | Analytics | Laravel + Vue + Inertia | Performance tracking, visualization, reporting |
-| [**Laundry Management**](./porto_laundry.md) | Service Management | Laravel + Vue + Inertia | Order tracking, payment, customer management |
-| [**Security System**](./porto_satpam.md) | Facility Management | Laravel + Vue + Inertia | Patrol tracking, incident reporting, GPS monitoring |
+| Project | Type | Tech Stack | Duration | Key Features |
+|---------|------|------------|----------|--------------|
+| [**HRIS System**](./porto_HRIS.md) | Enterprise HR | Laravel 12 + Nuxt 4 + Pinia | 6+ months | GPS attendance, biometric auth, 150+ API endpoints, 40+ tables |
+| [**Inventory POS**](./porto_INVENTORYMANAGEMENTPOS.md) | POS & Inventory | Laravel 11 + Vue 3 + Inertia | 12+ months | Multi-level approval, barcode scanning, stock opname, RBAC |
+| [**Enterprise CRM**](./porto_CRM.md) | CRM & Sales | Laravel 9 + Vue 3 + Inertia | 10+ months | 74+ models, pipeline management, performance scoring, 92+ Vue pages |
+| [**JSO Platform**](./porto_JSO.md) | Multi-Vendor E-Commerce | Laravel 11 + Vue 3 + Inertia | 12+ months | 258 Vue pages, auction system, Midtrans, 100+ tables, Telegram bot |
+| [**Dukkan POS**](./porto_dukkan.md) | POS & Operations | Laravel 11 + Vue 3 + Inertia | 14+ months | Dual-session shifts, 12+ approval types, 77+ models, 8+ roles |
+| [**KPI Dashboard**](./porto_kpi.md) | Performance Analytics | Laravel 11 + Vue 3 + Inertia | 8+ months | Weighted KPI scoring, dual database, ECharts, Hashids security |
+| [**Laundry System**](./porto_laundry.md) | Workflow Management | Laravel 10 + Vue 3 + Inertia | 10+ months | 7-stage workflow, 80+ models, PWA mobile, 125 Vue pages |
+| [**Satpam/Security**](./porto_satpam.md) | Attendance & Shift | Laravel 11 + Vue 3 + Inertia | 6+ months | Night shift calculation, GPS, photo evidence, overtime tracking |
 
 ---
 
 ## 🛠️ Technical Expertise Demonstrated
 
 ### Backend Development
-- **Laravel** (v11-12) - Advanced API development, authentication, business logic
-- **PHP** 8.2+ - Modern practices, OOP, design patterns
-- **Database Design** - Complex schemas with 40+ tables, optimization
-- **API Architecture** - RESTful design, 150+ endpoints per project
-- **Authentication** - Sanctum/JWT, multi-role systems, SSO
+| Technology | Proficiency | Demonstrated In |
+|------------|-------------|-----------------|
+| **Laravel** (v9-12) | Expert | All 8 projects - complex business logic, 800+ API endpoints total |
+| **PHP** 8.0-8.2+ | Advanced | Modern practices, OOP, PSR standards |
+| **MySQL** | Advanced | 40-100+ tables per project, dual database architecture |
+| **Spatie Permission** | Expert | RBAC implementation, 5-8 roles per system |
+| **Laravel Sanctum/Fortify** | Expert | API authentication, 2FA, session management |
 
 ### Frontend Development
-- **Vue.js 3** - Composition API, reactive interfaces
-- **Nuxt 4** - SSR/SPA, full-stack applications
-- **TypeScript** - Type-safe development
-- **Pinia** - State management
-- **Tailwind CSS** - Modern, responsive UI design
+| Technology | Proficiency | Demonstrated In |
+|------------|-------------|-----------------|
+| **Vue.js 3** | Advanced | Composition API, 49-258 pages per project |
+| **Inertia.js** | Expert | Modern monolithic SPA in 7 projects |
+| **Nuxt 4** | Advanced | HRIS project - SSR/SPA full-stack |
+| **Tailwind CSS 3.4** | Advanced | Utility-first responsive design |
+| **Ant Design Vue / Element Plus** | Advanced | Enterprise UI components |
+| **ECharts / Chart.js** | Intermediate | Advanced data visualization |
 
-### Advanced Features
-- 🗺️ **GPS & Location Services** - Haversine formula, geofencing, map integration
-- 🔐 **Biometric Authentication** - Face recognition (Face-API.js)
-- 📊 **Data Visualization** - Chart.js, interactive dashboards
-- 📄 **Document Generation** - PDF reports, invoices, exports
-- 🔄 **Real-time Systems** - Live updates, synchronization
-- 💳 **Payment Integration** - Midtrans, Xendit, payment gateways
-- 🚀 **Performance Optimization** - Caching, query optimization, lazy loading
+### Specialized Implementations
+- ✅ **Multi-Level Approval Workflows** - 10-12 approval types per system
+- ✅ **Dual Database Architecture** - Cross-database relationships, institutional integration
+- ✅ **Complex Time Calculations** - Night shift support, cross-midnight logic
+- ✅ **7-Stage Sequential Workflow** - Employee assignment, timestamp tracking
+- ✅ **Weighted KPI Scoring** - Configurable criteria, indicator-based calculation
+- ✅ **Multi-Vendor Marketplace** - Supplier management, auction system
+- ✅ **Payment Gateway Integration** - Midtrans, balance management, withdrawals
+- ✅ **GPS & Location Services** - Haversine formula, geofencing, attendance verification
+- ✅ **Biometric Authentication** - Face recognition (Face-API.js)
+- ✅ **Real-Time Notifications** - Telegram Bot SDK integration
+- ✅ **Barcode/QR Integration** - Scanning, generation, label printing
+- ✅ **PDF/Excel Reporting** - DomPDF, Maatwebsite Excel, professional exports
 
 ### DevOps & Tools
-- **Version Control** - Git, GitHub, branching strategies
-- **Containerization** - Docker, development environments
-- **Deployment** - Linux servers, Nginx, Apache, Coolify
-- **Cloud Services** - Cloudflare, Hetzner, AWS
-- **CI/CD** - Automated testing, deployment pipelines
+- **Version Control** - Git, GitHub
+- **Package Managers** - Composer, NPM
+- **Build Tools** - Laravel Mix, Vite
+- **Deployment** - Linux servers, Nginx, Apache
 
 ---
 
 ## 📊 Project Statistics
 
 - **Total Projects Documented:** 8 enterprise applications
-- **Combined Development Time:** 24+ months across all projects
+- **Combined Development Time:** 78+ months total across all projects
 - **API Endpoints Created:** 800+ RESTful endpoints
-- **Database Tables Designed:** 250+ tables with complex relationships
+- **Database Tables Designed:** 400+ tables with complex relationships
 - **Lines of Code:** 200,000+ (estimated across all projects)
 - **Users Served:** 1000+ active users across platforms
 
@@ -260,7 +269,7 @@ Please include:
 
 *Building modern, scalable, and secure web applications for businesses worldwide.*
 
-[📧 Contact Me](mailto:hello@wibosystems.com) | [🌐 Visit Website](https://wibosystems.com) | [💼 View Portfolio](https://wibosystems.com/portfolio)
+[📧 Contact Me](mailto:hello@wibosystems.com) | [🌐 Visit Website](https://wibosystems.com) | [💼 View Portfolio](https://wibosystems.com/)
 
 ---
 

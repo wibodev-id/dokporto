@@ -751,7 +751,7 @@ Usually within 24 hours
 
 Specializing in Inventory Management, POS Systems, and Enterprise Applications
 
-[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/portfolio)
+[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/)
 
 ---
 

@@ -975,7 +975,7 @@ I specialize in building complex workflow management systems and service operati
 ### Contact Information:
 - 🌐 **Website:** [wibosystems.com](https://wibosystems.com)
 - 📧 **Email:** hello@wibosystems.com
-- 💼 **Portfolio:** [wibosystems.com/portfolio](https://wibosystems.com/portfolio)
+- 💼 **Portfolio:** [wibosystems.com/portfolio](https://wibosystems.com/)
 
 ### Availability:
 - ✅ Available for new projects
@@ -1005,7 +1005,7 @@ Always staying updated with:
 
 Building modern, scalable, and efficient workflow management systems for Indonesian businesses.
 
-[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/portfolio)
+[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/)
 
 ---
 

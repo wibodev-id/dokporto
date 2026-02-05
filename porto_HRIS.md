@@ -290,7 +290,7 @@ I'd love to hear about your project. Whether you need a full application built f
 
 Building modern, scalable, and secure web applications for Indonesian businesses.
 
-[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/portfolio)
+[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/)
 
 ---
 

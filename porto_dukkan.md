@@ -1010,7 +1010,7 @@ Usually within 24 hours
 
 Specializing in POS Systems, Shift Management, and Multi-Location Operations
 
-[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/portfolio)
+[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/)
 
 ---
 

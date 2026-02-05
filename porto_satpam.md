@@ -816,7 +816,7 @@ I specialize in building attendance systems, shift management platforms, and wor
 ### Contact Information:
 - 🌐 **Website:** [wibosystems.com](https://wibosystems.com)
 - 📧 **Email:** hello@wibosystems.com
-- 💼 **Portfolio:** [wibosystems.com/portfolio](https://wibosystems.com/portfolio)
+- 💼 **Portfolio:** [wibosystems.com/portfolio](https://wibosystems.com/)
 
 ### Availability:
 - ✅ Available for new projects
@@ -846,7 +846,7 @@ Always staying updated with:
 
 Building modern, accurate, and reliable attendance & shift management systems for Indonesian businesses.
 
-[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/portfolio)
+[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/)
 
 ---
 

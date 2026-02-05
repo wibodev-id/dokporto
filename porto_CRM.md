@@ -878,7 +878,7 @@ Usually within 24 hours
 
 Specializing in CRM Systems, Sales Pipeline Management, and Performance Analytics
 
-[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/portfolio)
+[Contact Me](https://wibosystems.com) | [View More Projects](https://wibosystems.com/)
 
 ---
 
