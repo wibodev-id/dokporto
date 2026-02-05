@@ -34,12 +34,12 @@ This repository serves as a **technical portfolio** demonstrating:
 |---------|------|------------|--------------|
 | [**HRIS System**](./porto_HRIS.md) | Enterprise | Laravel 12 + Nuxt 4 | Employee management, GPS attendance, biometric auth |
 | [**BerkahPOS**](./porto_INVENTORYMANAGEMENTPOS.md) | POS & Inventory | Laravel + Nuxt | Multi-store management, real-time sync, reporting |
-| [**Enterprise CRM**](./porto_CRM.md) | CRM & Sales | Laravel + Vue | Sales pipeline, customer management, analytics |
-| [**JSO Platform**](./porto_JSO.md) | E-Commerce | Laravel + Nuxt | Multi-vendor marketplace, payment integration |
-| [**Dukkan**](./porto_dukkan.md) | Business Platform | Laravel + Vue | Merchant management, order processing |
-| [**KPI Dashboard**](./porto_kpi.md) | Analytics | Laravel + Nuxt | Performance tracking, visualization, reporting |
-| [**Laundry Management**](./porto_laundry.md) | Service Management | Laravel + Vue | Order tracking, payment, customer management |
-| [**Security System**](./porto_satpam.md) | Facility Management | Laravel + Nuxt | Patrol tracking, incident reporting, GPS monitoring |
+| [**Enterprise CRM**](./porto_CRM.md) | CRM & Sales | Laravel + Vue + Inertia | Sales pipeline, customer management, analytics |
+| [**JSO Platform**](./porto_JSO.md) | E-Commerce | Laravel + Vue + Inertia | Multi-vendor marketplace, payment integration |
+| [**Dukkan**](./porto_dukkan.md) | Business Platform | Laravel + Vue + Inertia | Merchant management, order processing |
+| [**KPI Dashboard**](./porto_kpi.md) | Analytics | Laravel + Vue + Inertia | Performance tracking, visualization, reporting |
+| [**Laundry Management**](./porto_laundry.md) | Service Management | Laravel + Vue + Inertia | Order tracking, payment, customer management |
+| [**Security System**](./porto_satpam.md) | Facility Management | Laravel + Vue + Inertia | Patrol tracking, incident reporting, GPS monitoring |
 
 ---
 
